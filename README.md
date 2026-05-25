@@ -1,7 +1,9 @@
+# ✈️ AI-Based Airport Passenger Flow Prediction System
+
+MBA Project using SARIMA Forecasting and Streamlit Dashboard for Airport Passenger Flow Prediction
 
 ![Dashboard](/1.jpg)
-# AI-Based-Airport-Passenger-Flow-Prediction-System
-MBA Project using SARIMA Forecasting and Streamlit Dashboard for Airport Passenger Flow Prediction
+
 
 # AI-Based Airport Passenger Flow Prediction System
 
