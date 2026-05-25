@@ -1,5 +1,5 @@
 ## Forecast Dashboard
-![Dashboard](/4,6.png)
+![Dashboard](/R71874001_g.jpg)
 # AI-Based-Airport-Passenger-Flow-Prediction-System
 MBA Project using SARIMA Forecasting and Streamlit Dashboard for Airport Passenger Flow Prediction
 
