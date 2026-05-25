@@ -32,13 +32,13 @@ This project forecasts passenger demand at San Francisco International Airport (
 - Resource Planning Support
   
 ## Forecast Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](/4,6.png)
 
 ## Forecast Table
-![Forecast Table](images/forecast_table.png)
+![Forecast Table](/6,2.png)
 
 ## Passenger Forecast Graph
-![Forecast Graph](images/forecast_graph.png)
+![Forecast Graph](/6,3.png)
 ## Dataset
 
 Source:
