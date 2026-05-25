@@ -14,6 +14,7 @@ This project forecasts passenger demand at San Francisco International Airport (
 - Support airport resource planning
 - Improve operational efficiency
 
+
 ## Technologies Used
 
 - Python
@@ -29,7 +30,15 @@ This project forecasts passenger demand at San Francisco International Airport (
 - Passenger Demand Trend Graph
 - Operational Insights
 - Resource Planning Support
+  
+## Forecast Dashboard
+![Dashboard](images/dashboard.png)
 
+## Forecast Table
+![Forecast Table](images/forecast_table.png)
+
+## Passenger Forecast Graph
+![Forecast Graph](images/forecast_graph.png)
 ## Dataset
 
 Source:
